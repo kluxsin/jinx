@@ -2,8 +2,8 @@
   {
     "id": "a",
     "name": "TEST",
-    "cover": "cover/0.png",
-    "url": "html/0.html",
+    "cover": "{JINX}/cover/0.png",
+    "url": "{JINX}/html/0.html",
     "author": "TEST",
     "authorLink": "rickroll.it"
   }
